@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+runs/
+experiments/
+plots/
+*.pth
+data/winequality-red-*.csv
+!data/winequality-red.csv
